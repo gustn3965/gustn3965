@@ -1,8 +1,7 @@
 > 공유가 생명입니다. 서로 발전합시다! 😀
 
-저의 [간단한 소개](https://www.notion.so/27ab02db5bd04b87bdbb28644233f0bf)입니다. 
+ [블로그](https://vapor3965.tistory.com/)
 
-주로 WWDC나 코딩테스트관련 문제들을 작성하는 [블로그](https://vapor3965.tistory.com/)입니다.
 
 
 <!--
